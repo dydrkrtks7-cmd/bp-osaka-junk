@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://zone-info-note.go-hapjeong-club.xyz/sitemap.xml
+Sitemap: https://zone-info-note.go-hapjeong-club.xyz/sitemap-pages.xml
